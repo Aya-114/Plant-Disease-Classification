@@ -20,8 +20,9 @@
 ## 🌱 Why This Project Matters
 
 <p align="center">
-![Plant Disease GIF](https://github.com/Aya-114/repo/blob/main/assets/giphy.gif?raw=true)
+  <img src="https://github.com/Aya-114/repo/blob/main/assets/giphy.gif?raw=true" alt="Plant Disease GIF"/>
 </p>
+
 
 🌱 **Plants are the backbone of life on Earth**, providing food, oxygen, and ecological balance.  
 🌍 **Plant diseases threaten food security**, agricultural productivity, and environmental sustainability.
