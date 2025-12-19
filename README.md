@@ -20,7 +20,7 @@
 ## 🌱 Why This Project Matters
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="420">
+![Plant Disease GIF](assets/giphy.gif)
 </p>
 
 🌱 **Plants are the backbone of life on Earth**, providing food, oxygen, and ecological balance.  
@@ -47,8 +47,9 @@ This project combines **Artificial Intelligence, Computer Vision, and Deep Learn
 ## 📊 Dataset
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400">
+![Plant Disease GIF](assets/tumblr_p2zkqfzA4B1wxub9uo1_1280.gif)
 </p>
+
 
 - **PlantVillage Dataset**
 - Public and widely used in agricultural AI research
@@ -72,9 +73,8 @@ This project combines **Artificial Intelligence, Computer Vision, and Deep Learn
 ---
 
 ## 🔄 Data Preprocessing & Augmentation
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5y/giphy.gif" width="350">
+![Plant Disease GIF](assets/prepro.gif)
 </p>
 
 To improve model generalization:
@@ -88,8 +88,9 @@ To improve model generalization:
 ## 📈 Model Evaluation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3mV2SkM/giphy.gif" width="350">
+![Plant Disease GIF](assets/Math.gif)
 </p>
+
 
 Evaluation metrics include:
 - Accuracy
@@ -147,18 +148,29 @@ Evaluation metrics include:
 
 ## 👥 Project Team
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-| Team Members |
-|-------------|
-| **Marina Samy** |
-| **Aya Alaa** |
-| **Asmaa Mohamed** |
-| **Esraa** |
-| **Noha** |
-| **Kerollos** |
+<div>
+  <strong>Marina Samy</strong>
+</div>
+<div>
+  <strong>Aya Alaa</strong>
+</div>
+<div>
+  <strong>Asmaa Mohamed</strong>
+</div>
+<div>
+  <strong>Esraa</strong>
+</div>
+<div>
+  <strong>Noha</strong>
+</div>
+<div>
+  <strong>Kerollos</strong>
+</div>
 
 </div>
+
 
 🌿 *A collaborative effort focused on innovation, sustainability, and smart agriculture.*
 
