@@ -66,7 +66,7 @@ This project combines **Artificial Intelligence, Computer Vision, and Deep Learn
 |------|--------|
 | ⚡ **EfficientNetB3** | High accuracy with optimized parameters |
 | 🧱 **ResNet50** | Deep residual learning for robust feature extraction |
-| 📱 **VGG16 / VGG19** | Classic CNN for feature extraction, easy to fine-tune |
+| 📱 **VGG16** | Classic CNN for feature extraction, easy to fine-tune |
 
 </div>
 
