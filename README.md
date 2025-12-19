@@ -20,7 +20,7 @@
 ## 🌱 Why This Project Matters
 
 <p align="center">
-![Plant Disease GIF](assets/giphy.gif)
+![Plant Disease GIF](https://github.com/Aya-114/repo/blob/main/assets/giphy.gif?raw=true)
 </p>
 
 🌱 **Plants are the backbone of life on Earth**, providing food, oxygen, and ecological balance.  
