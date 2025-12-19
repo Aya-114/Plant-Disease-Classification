@@ -20,7 +20,7 @@
 ## 🌱 Why This Project Matters
 
 <p align="center">
-  <img src="https://github.com/Aya-114/repo/blob/main/assets/giphy.gif?raw=true" alt="Plant Disease GIF"/>
+  <img src="assets/Math.gif" alt="Plant Disease GIF"/>
 </p>
 
 
