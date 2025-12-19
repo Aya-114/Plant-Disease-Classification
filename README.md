@@ -20,7 +20,7 @@
 ## 🌱 Why This Project Matters
 
 <p align="center">
-  <img src="assets/Math.gif" alt="Plant Disease GIF"/>
+  <img src="assets/giphy.gif" alt="Plant Disease GIF"/>
 </p>
 
 
@@ -48,8 +48,7 @@ This project combines **Artificial Intelligence, Computer Vision, and Deep Learn
 ## 📊 Dataset
 
 <p align="center">
-![Plant Disease GIF](assets/tumblr_p2zkqfzA4B1wxub9uo1_1280.gif)
-</p>
+<img src="assets/tumblr_p2zkqfzA4B1wxub9uo1_1280.gif" alt="Dataset GIF"/></p>
 
 
 - **PlantVillage Dataset**
@@ -75,7 +74,7 @@ This project combines **Artificial Intelligence, Computer Vision, and Deep Learn
 
 ## 🔄 Data Preprocessing & Augmentation
 <p align="center">
-![Plant Disease GIF](assets/prepro.gif)
+<img src="assets/prepro.gif" alt="Preprocessing GIF"/>
 </p>
 
 To improve model generalization:
@@ -89,7 +88,7 @@ To improve model generalization:
 ## 📈 Model Evaluation
 
 <p align="center">
-![Plant Disease GIF](assets/Math.gif)
+<img src="assets/Math.gif" alt="Evaluation GIF"/>
 </p>
 
 
