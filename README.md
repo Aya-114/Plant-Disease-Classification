@@ -100,6 +100,11 @@ Evaluation metrics include:
 
 ---
 
+## APP GUI 
+<p align="center">
+<img src="assets/GUI.png" alt="GUI Image"/>
+</p>
+
 ## 📱 Mobile Deployment (Bonus)
 
 <div align="center">
